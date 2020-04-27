@@ -1,4 +1,4 @@
-# Qlik Sense Courses Tracker Dashboard
+# Qlik Sense Course Tracker Dashboard
 A Qlik Sense dashboard to track course progress at Qlik Continuous Classroom (QCC).
   
 ## Table of contents  
@@ -17,7 +17,6 @@ The database has the same topic structure from former QCC Business Analyst and D
 Your progress must be filled in the column **Completed** at QSBA tab in the QCC.xlsx database, with the number of minutes you have already completed in the course. 
 *E.g.:*  
   
-Tab: **QSBA**
 | Role             | Stage | Part # | Part            | Chapter	                                     | Minutes | Completed |
 | ---------------- | ----- | ------ | --------------- | -------------------------------------------- | ------- | --------- |
 | Business Analyst | Basic |      1 | Getting Started | Orientation to the Qlik Continuous Classroom |      17 |        17 |
